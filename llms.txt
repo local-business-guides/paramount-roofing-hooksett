@@ -23,6 +23,9 @@
 - [Contractor for roofing Hooksett homeowners can call](https://local-business-guides.github.io/paramount-roofing-hooksett/contractor-for-roofing-hooksett/): Need a contractor for roofing Hooksett homeowners can call for repairs, replacement, or new construction? Contact Paramount Roofing in Hooksett today.
 - [Contractor roofing near me for Hooksett homes](https://local-business-guides.github.io/paramount-roofing-hooksett/contractor-roofing-near-me/): Searching contractor roofing near me? Get help with roof repairs, replacement, or new construction from Paramount Roofing serving Hooksett. Call today.
 
+## Newsroom
+- [Paramount Roofing Releases Hooksett Roofing Contractor Guide](https://local-business-guides.github.io/paramount-roofing-hooksett/news/2026-11-06-paramount-roofing-releases-hooksett-roofing/): Paramount Roofing has released a guide about roofing contractor services in Hooksett, with versions available online, on YouTube and on SoundCloud. (2026-11-06)
+
 ## Pages
 - [Roofing Contractor in Hooksett, New Hampshire](https://local-business-guides.github.io/paramount-roofing-hooksett/): Get residential or commercial roofing help from a full-service roofing contractor serving Hooksett, New Hampshire. Call +1603-738-5881.
 - [About Paramount Roofing in Hooksett, NH](https://local-business-guides.github.io/paramount-roofing-hooksett/about/): About Paramount Roofing, Hooksett.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/paramount-roofing-hooksett/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/paramount-roofing-hooksett/news/rss.xml)
 - [Main resource site](https://paramount-roofing-hooksett.localbusinesses1.chatgpt.site)
